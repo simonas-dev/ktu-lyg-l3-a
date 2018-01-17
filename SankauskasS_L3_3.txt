@@ -1,0 +1,40 @@
+5 5
+Tiekejas1 5
+Pienas 5 6.5
+Varske 8 5.59
+Grietine 5 9.95
+Majonezas 5 4.8
+Jogurtas 8 2.6
+Tiekejas2 4
+Pienas 1 10
+Duona 2 9.9
+Grietine 3 8.56
+Varske 4 7.69
+Tiekejas3 5
+Grietine 10 15.6
+Pienas 10 10.2
+Majonezas 11 14.3
+Duona 15 16.3
+Varske 14 15.36
+Tiekejas4 5
+Varske 9 8.63
+Pienas 9 5.6
+Grietine 14 10.5
+Duona 10 9.3
+Jogurtas 11 5.55
+Tiekejas5 5
+Pienas 21 4.25
+Varske 21 5.25
+Grietine 21 2.27
+Jogurtas 20 13.54
+Duona 20 2.65
+Pirkejas1 1
+Grietine 2 6.5
+Pirkejas2 1
+Pienas 71 10
+Pirkejas3 1
+Grietine 10 15.6
+Pirkejas4 1
+Varske 8 8.63
+Pirkejas5 1
+Pienas 2 4.25
